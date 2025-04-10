@@ -1,0 +1,115 @@
+[
+    {
+        "username": "igblmq",
+        "mfa_enabled": true,
+        "policies": [
+            "read-only"
+        ]
+    },
+    {
+        "username": "jjwhsk",
+        "mfa_enabled": true,
+        "policies": [
+            "read-only",
+            "*"
+        ]
+    },
+    {
+        "username": "zaiidr",
+        "mfa_enabled": true,
+        "policies": [
+            "read-only"
+        ]
+    },
+    {
+        "username": "akavgv",
+        "mfa_enabled": false,
+        "policies": [
+            "*"
+        ]
+    },
+    {
+        "username": "ifmbna",
+        "mfa_enabled": false,
+        "policies": [
+            "*"
+        ]
+    },
+    {
+        "username": "jdwric",
+        "mfa_enabled": true,
+        "policies": [
+            "*",
+            "read-only"
+        ]
+    },
+    {
+        "username": "dofxwx",
+        "mfa_enabled": true,
+        "policies": [
+            "read-only",
+            "devops"
+        ]
+    },
+    {
+        "username": "nzgbxa",
+        "mfa_enabled": true,
+        "policies": [
+            "*"
+        ]
+    },
+    {
+        "username": "muejgg",
+        "mfa_enabled": false,
+        "policies": [
+            "admin"
+        ]
+    },
+    {
+        "username": "mhsshy",
+        "mfa_enabled": true,
+        "policies": [
+            "admin",
+            "read-only"
+        ]
+    },
+    {
+        "username": "fxquhg",
+        "mfa_enabled": true,
+        "policies": [
+            "read-only",
+            "*"
+        ]
+    },
+    {
+        "username": "vqhhyd",
+        "mfa_enabled": true,
+        "policies": [
+            "devops",
+            "admin"
+        ]
+    },
+    {
+        "username": "phrwwx",
+        "mfa_enabled": false,
+        "policies": [
+            "devops",
+            "read-only"
+        ]
+    },
+    {
+        "username": "ltgdgt",
+        "mfa_enabled": false,
+        "policies": [
+            "*"
+        ]
+    },
+    {
+        "username": "dzngcz",
+        "mfa_enabled": false,
+        "policies": [
+            "admin",
+            "read-only"
+        ]
+    }
+]
