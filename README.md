@@ -53,5 +53,5 @@ IAM controls who can do what. Users without Multi-Factor Authentication (MFA) or
 - Add basic dashboard (e.g., Streamlit)
 
 # 🔒 Disclaimer
-This project uses fake, synthetic data. No cloud credentials are used or exposed. Built strictly for educational and demo purposes.
+This project uses fake, synthetic data. No cloud credentials are used or exposed. Built strictly for demo purposes.
 
