@@ -40,17 +40,17 @@ IAM controls who can do what. Users without Multi-Factor Authentication (MFA) or
 
 
 # ⚙️ Technologies Used
-Python 3
-JSON
-Random/Synthetic Data Generation
-Cloud Security Concepts
+- Python 3
+- JSON
+- Random/Synthetic Data Generation
+- Cloud Security Concepts
 
 
 # 📌 Future Ideas
-Integrate real AWS SDK (boto3) for scanning live accounts
-Add scoring system for risk levels
-Export reports (CSV, PDF)
-Add basic dashboard (e.g., Streamlit)
+- Integrate real AWS SDK (boto3) for scanning live accounts
+- Add scoring system for risk levels
+- Export reports (CSV, PDF)
+- Add basic dashboard (e.g., Streamlit)
 
 # 🔒 Disclaimer
 This project uses fake, synthetic data. No cloud credentials are used or exposed. Built strictly for educational and demo purposes.
